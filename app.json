@@ -10,7 +10,7 @@
     "start": "node index.js"
   },
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {"KANGO~wyVFmbSJ#VSh5o5Wt0hpxrVfXAK7eKjREEgQXsRH6wI3JJX5qRzE"
       "description": "Enter your kango session id here; must start with KANGO~",
       "value": "",
       "required": false
@@ -20,7 +20,7 @@
       "value": "Kango-Bot",
       "required": false
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {"233597524238"
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
       "value": "",
       "required": true
